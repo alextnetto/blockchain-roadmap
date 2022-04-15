@@ -13,9 +13,11 @@ Eu sei que você está ansioso para programar Smart Contracts, mas antes disso p
 
 ### Criptografia
 
-Isso é tão importante que deu razão ao nome criptomoeda. Conceitos importantes para saber:
+Isso é tão importante que deu razão ao nome criptomoeda.
 
 [Meu vídeo explicando esse tópico](https://www.youtube.com/watch?v=3KvnSyWIoGQ)
+
+Conceitos importantes para saber:
 
 - Chave privada e pública
 
