@@ -15,6 +15,8 @@ Eu sei que você está ansioso para programar Smart Contracts, mas antes disso p
 
 Isso é tão importante que deu razão ao nome criptomoeda. Conceitos importantes para saber:
 
+[Meu vídeo explicando esse tópico](https://www.youtube.com/watch?v=3KvnSyWIoGQ)
+
 - Chave privada e pública
 
   - [Explicando sobre a utilidade e função](https://www.coinbase.com/pt/learn/crypto-basics/what-is-a-private-key)
@@ -37,3 +39,12 @@ E a criptografia assimétrica?
 Como chave privada e pública estão relacionadas com um endereço na blockchain?
 
 O que é e quais as propriedades de uma hash?
+
+### Blockchain
+
+Agora vamos ver mais sobre essa tecnologia que usa esses conceitos de criptografia como base.
+
+[Explicação clara e objetiva sobre](https://www.youtube.com/watch?v=dkElPTevoR4)
+[Um site para explorar o conceito](https://andersbrownworth.com/blockchain/blockchain)
+
+O criador desse site fez um [vídeo](https://andersbrownworth.com/blockchain/) muito show sobre, mas está em inglês, uma das melhores explicações que vi.
