@@ -1,5 +1,7 @@
 # Blockchain roadmap ⛓🚀
 
+> [Faça parte de maior comunidade de desenvolverdores web3](https://discord.gg/vaxtW2ET2g)
+
 Um caminho de aprendizado para entender rápidamente sobre blockchain, especialmente Ethereum. Sinta se livre para contribuir abrindo um issue ou enviando um pull request.
 
 **O caminho:**
@@ -15,9 +17,9 @@ Eu sei que você está ansioso para programar Smart Contracts, mas antes disso p
 
 Isso é tão importante que deu razão ao nome criptomoeda.
 
-[Meu vídeo explicando esse tópico](https://www.youtube.com/watch?v=3KvnSyWIoGQ)
+> [Meu vídeo explicando esse tópico](https://www.youtube.com/watch?v=3KvnSyWIoGQ)
 
-Conceitos importantes para saber:
+**Conceitos importantes para saber:**
 
 - Chave privada e pública
 
@@ -34,19 +36,19 @@ https://alextnetto.github.io/crypto/
 
 **Exercício:**
 
-Tente responder como funciona criptografia simétrica?
+- Tente responder como funciona criptografia simétrica?
 
-E a criptografia assimétrica?
+- E a criptografia assimétrica?
 
-Como chave privada e pública estão relacionadas com um endereço na blockchain?
+- Como chave privada e pública estão relacionadas com um endereço na blockchain?
 
-O que é e quais as propriedades de uma hash?
+- O que é e quais as propriedades de uma hash?
 
 ### Blockchain
 
 Agora vamos ver mais sobre essa tecnologia que usa esses conceitos de criptografia como base.
 
-[Explicação clara e objetiva sobre](https://www.youtube.com/watch?v=dkElPTevoR4)
-[Um site para explorar o conceito](https://andersbrownworth.com/blockchain/blockchain)
+- [Explicação clara e objetiva sobre](https://www.youtube.com/watch?v=dkElPTevoR4)
+- [Um site para explorar o conceito](https://andersbrownworth.com/blockchain/blockchain)
 
 O criador desse site fez um [vídeo](https://andersbrownworth.com/blockchain/) muito show sobre, mas está em inglês, uma das melhores explicações que vi.
