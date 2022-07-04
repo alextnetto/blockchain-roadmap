@@ -1,7 +1,5 @@
 # Blockchain roadmap ⛓🚀
 
-> [Faça parte de maior comunidade de desenvolverdores web3](https://discord.gg/vaxtW2ET2g)
-
 Um caminho de aprendizado para entender rápidamente sobre blockchain, especialmente Ethereum. Sinta se livre para contribuir abrindo um issue ou enviando um pull request.
 
 **O caminho:**
@@ -52,3 +50,29 @@ Agora vamos ver mais sobre essa tecnologia que usa esses conceitos de criptograf
 - [Um site para explorar o conceito](https://andersbrownworth.com/blockchain/blockchain)
 
 O criador desse site fez um [vídeo](https://andersbrownworth.com/blockchain/) muito show sobre, mas está em inglês, uma das melhores explicações que vi.
+
+## Ethereum
+
+### EVM
+
+Bons recursos
+
+- [Vídeo resumindo](https://www.youtube.com/watch?v=GPoze5RmDVU)
+- [EVM visualizada numa apresentação](https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf)
+- [Documentação oficial](https://ethereum.org/en/developers/docs/evm/)
+
+### Solidity
+
+Excelentes recursos
+
+- [Playlist e canal top sobre Solidity](https://www.youtube.com/watch?v=xv9OmztShIw&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
+- [Outro canal que vale a pena acompanhar](https://www.youtube.com/c/DappUniversity)
+- [Para entender sobre front running, flashbots](https://www.youtube.com/user/epheph33)
+- [Mais sobre MEV](https://www.youtube.com/watch?v=sidkbO4zHP0)
+
+### Vulnerabilidades
+
+Recursos bons
+
+- [https://www.damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/)
+- [https://capturetheether.com/](https://capturetheether.com/)
